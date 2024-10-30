@@ -1,4 +1,4 @@
-# EduConsultPro Institute - Salesforce CRM Integration
+# A CRM APPLICATION TO MANAGE SERVICES OFFERED BY INSTITUTION - SALESFORCE
 
 EduConsultPro Institute is dedicated to enhancing the management of its admission processes, consulting services, and immigration case handling. Facing a surge in applications and service requests, EduConsultPro Institute has adopted Salesforce CRM to streamline operations and ensure an efficient experience for students and admissions staff.
 
